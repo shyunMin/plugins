@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.videoPlayerAvplay" res-type="tizen.videoPlayerAvplay.lib" res-version="9.0.0" version="9.0.0" lib="true">
+    <icon>videoPlayerAvplay.png</icon>
+    <label>videoPlayerAvplay</label>
+    <allowed-package id="*"/>
+</manifest>
